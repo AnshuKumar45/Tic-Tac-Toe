@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#535151</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Winner">#D6C685</color>
+    <color name="Draw">#D6B5AC</color>
+    <color name="initial">#F9FCFB</color>
+    <color name="card">#91DED9D9</color>
+    <color name="button_color">#EEE9E9</color>
+    <color name="result">#B4DD92</color>
+    <color name="toast_result">#88D349</color>
+    <color name="O_color">#F57365</color>
+    <color name="X_color">#3C6EED</color>
+
+</resources>
